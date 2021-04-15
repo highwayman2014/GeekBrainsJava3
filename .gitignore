@@ -2,5 +2,6 @@
 /shelf/
 /.idea/workspace.xml
 /.idea
+/target/
 *.iml
 pom.xml
